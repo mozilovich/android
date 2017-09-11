@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Exam</string>
+    <string name="starting">Begin test</string>
+    <string name="next">Next</string>
+    <string name="question_one_of_ten">Question</string>
+    <string name="again">Again</string>
+    <string name="your_result">Your result is</string>
+    <string-array name="questions">
+        <item>2 + 4 = ?</item>
+        <item>6 + 5 = ?</item>
+        <item>2 + 7 = ?</item>
+        <item>4 + 9 = ?</item>
+        <item>7 + 8 = ?</item>
+        <item>1 + 2 = ?</item>
+        <item>7 - 4 = ?</item>
+        <item>10 - 3 = ?</item>
+        <item>7 * 3 = ?</item>
+        <item>7 - 7 = ?</item>
+    </string-array>
+
+    <string-array name="answer1">
+        <item>Five</item>
+        <item>Ten</item>
+        <item>Eight</item>
+        <item>Eleven</item>
+        <item>Fourteen</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Seven</item>
+        <item>Twenty</item>
+        <item>Zero</item>
+    </string-array>
+
+    <string-array name="answer2">
+        <item>Four</item>
+        <item>Fifteen</item>
+        <item>Nine</item>
+        <item>Twelve</item>
+        <item>Twelve</item>
+        <item>Six</item>
+        <item>Three</item>
+        <item>Five</item>
+        <item>Twenty one</item>
+        <item>One</item>
+    </string-array>
+
+    <string-array name="answer3">
+        <item>Six</item>
+        <item>Twelve</item>
+        <item>Ten</item>
+        <item>Thirteen</item>
+        <item>Thirteen</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Nineteen</item>
+        <item>Three</item>
+    </string-array>
+
+    <string-array name="answer4">
+        <item>Seven</item>
+        <item>Eleven</item>
+        <item>Seven</item>
+        <item>Fourteen</item>
+        <item>Fifteen</item>
+        <item>Five</item>
+        <item>Two</item>
+        <item>Eight</item>
+        <item>Eighteen</item>
+        <item>Seven</item>
+    </string-array>
+</resources>

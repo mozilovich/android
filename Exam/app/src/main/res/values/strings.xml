@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Exam</string>
+    <string name="starting">Начать тест</string>
+    <string name="next">Далее</string>
+    <string name="question_one_of_ten">Вопрос </string>
+    <string name="again">Заново</string>
+    <string name="your_result">Твой результат:</string>
+    <string-array name="questions">
+        <item>2 + 4 = ?</item>
+        <item>6 + 5 = ?</item>
+        <item>2 + 7 = ?</item>
+        <item>4 + 9 = ?</item>
+        <item>7 + 8 = ?</item>
+        <item>1 + 2 = ?</item>
+        <item>7 - 4 = ?</item>
+        <item>10 - 3 = ?</item>
+        <item>7 * 3 = ?</item>
+        <item>7 - 7 = ?</item>
+    </string-array>
+
+    <string-array name="answer1">
+        <item>Пять</item>
+        <item>Десять</item>
+        <item>Восемь</item>
+        <item>Одиннадцать</item>
+        <item>Четырнадцать</item>
+        <item>Три</item>
+        <item>Четыре</item>
+        <item>Семь</item>
+        <item>Двадцать</item>
+        <item>Ноль</item>
+    </string-array>
+
+    <string-array name="answer2">
+        <item>Четыре</item>
+        <item>Пятнадцать</item>
+        <item>Девять</item>
+        <item>Двенадцать</item>
+        <item>Двенадцать</item>
+        <item>Шесть</item>
+        <item>Три</item>
+        <item>Пять</item>
+        <item>Двадцать один</item>
+        <item>Один</item>
+    </string-array>
+
+    <string-array name="answer3">
+        <item>Шесть</item>
+        <item>Двенадцать</item>
+        <item>Десять</item>
+        <item>Тринадцать</item>
+        <item>Тринадцать</item>
+        <item>Четыре</item>
+        <item>Пять</item>
+        <item>Шесть</item>
+        <item>Девятнадцать</item>
+        <item>Три</item>
+    </string-array>
+
+    <string-array name="answer4">
+        <item>Семь</item>
+        <item>Одиннадцать</item>
+        <item>Семь</item>
+        <item>Четырнадцать</item>
+        <item>Пятнадцать</item>
+        <item>Пять</item>
+        <item>Два</item>
+        <item>Восемь</item>
+        <item>Восемнадцать</item>
+        <item>Семь</item>
+    </string-array>
+</resources>
